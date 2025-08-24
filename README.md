@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue in the GitHub repository
-- Contact: freelancer.hazratbilal@gmail.co,(mailto:freelancer.hazratbilal@gmail.com)
+- Contact: freelancer.hazratbilal@gmail.com,(mailto:freelancer.hazratbilal@gmail.com)
 - Documentation: Check the wiki section for detailed guides
 
 ## 🎯 Roadmap
